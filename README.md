@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" alt="IP Camera Logo" width="120"/>
+  <img src="./logo.png" alt="IP Camera Logo" width="120"/>
 </p>
 
 # IP Camera Android App
